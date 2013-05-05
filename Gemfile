@@ -7,6 +7,13 @@ group :development do
   gem 'rspec-rails', '~> 2.4'
 end
 
+gem 'autotest'
+gem 'autotest-notification'
+gem 'autotest-growl'
+gem 'autotest-rails'
+gem 'capybara'
+gem 'webrat'
+
 
 group :test do
   gem 'rspec-rails', '~> 2.4'
